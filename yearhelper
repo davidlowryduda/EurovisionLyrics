@@ -5,7 +5,7 @@ vLh"dy:cd ../d:!vim -s ../commands.vim index.html
 
 :cd 1956
 
-vLh"dy:args d/*:argd */*index.html:argdo call ExtractLyrics():2,1000bd
+vLh"dy:args ../d/*:argd */*index.html:argdo call ExtractLyrics():2,1000bd
 
 1956
 1957
